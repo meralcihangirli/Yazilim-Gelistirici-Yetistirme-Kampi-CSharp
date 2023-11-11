@@ -27,7 +27,7 @@ namespace Metotlar
             urun2.Aciklama = "Diyarbakır Karpuzu";
 
             Urun[] urunler = new Urun[] { urun1, urun2 };
-
+            //type-safe--tip güvenlii
             foreach (Urun urun in urunler)
             {
                 Console.WriteLine(urun.Adi);
@@ -36,7 +36,17 @@ namespace Metotlar
                 Console.WriteLine("----------------------");
             }
 
+            Console.WriteLine("---------Metotlar-------------");
 
+            //instance-class örneği olusturmak
+            //encapsulation
+            SepetManager sepetManager = new SepetManager();
+            sepetManager.Ekle(urun1);
+            sepetManager.Ekle(urun2);
+
+            sepetManager.Ekle2("Armut", "Yesil armut", 12, 10);
+            sepetManager.Ekle2("Elma", "Yesil elma", 12, 9);
+            sepetManager.Ekle2("Karpuz", "Diyarbakır karpuzu", 12, 8);
         }
     }
 }
