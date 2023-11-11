@@ -1,0 +1,7 @@
+E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\Metotlar\Metotlar\bin\Debug\Metotlar.exe.config
+E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\Metotlar\Metotlar\bin\Debug\Metotlar.exe
+E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\Metotlar\Metotlar\bin\Debug\Metotlar.pdb
+E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\Metotlar\Metotlar\obj\Debug\Metotlar.csproj.AssemblyReference.cache
+E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\Metotlar\Metotlar\obj\Debug\Metotlar.csproj.CoreCompileInputs.cache
+E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\Metotlar\Metotlar\obj\Debug\Metotlar.exe
+E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\Metotlar\Metotlar\obj\Debug\Metotlar.pdb
