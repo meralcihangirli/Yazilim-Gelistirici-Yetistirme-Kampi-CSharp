@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegerveReferansTipler", "..
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "..\OOP1\OOP1.csproj", "{8BB2545F-2E57-47D9-BEB9-1718655B64C8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlar", "..\Koleksiyonlar\Koleksiyonlar.csproj", "{2D82E473-15B3-4565-A9D0-72043280E33F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{8BB2545F-2E57-47D9-BEB9-1718655B64C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8BB2545F-2E57-47D9-BEB9-1718655B64C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8BB2545F-2E57-47D9-BEB9-1718655B64C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D82E473-15B3-4565-A9D0-72043280E33F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D82E473-15B3-4565-A9D0-72043280E33F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D82E473-15B3-4565-A9D0-72043280E33F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D82E473-15B3-4565-A9D0-72043280E33F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
