@@ -1,0 +1,7 @@
+E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\OOP1\bin\Debug\OOP1.exe.config
+E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\OOP1\bin\Debug\OOP1.exe
+E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\OOP1\bin\Debug\OOP1.pdb
+E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\OOP1\obj\Debug\OOP1.csproj.AssemblyReference.cache
+E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\OOP1\obj\Debug\OOP1.csproj.CoreCompileInputs.cache
+E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\OOP1\obj\Debug\OOP1.exe
+E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\OOP1\obj\Debug\OOP1.pdb
