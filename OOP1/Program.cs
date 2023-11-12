@@ -23,7 +23,11 @@ namespace OOP1
             //PascalCase //camelCase
             ProductManager productManager = new ProductManager();
             productManager.Add(product1);
+            Console.WriteLine(product1.ProductName); //kamera
 
+            int sayi = 100;
+            productManager.BiseyYap(sayi);
+            Console.WriteLine(sayi); //100
         }
     }
 }

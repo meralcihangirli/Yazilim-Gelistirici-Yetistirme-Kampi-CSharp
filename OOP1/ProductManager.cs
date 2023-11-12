@@ -10,7 +10,12 @@ namespace OOP1
     {
         public void Add(Product product)
         {
-            
+            product.ProductName = "Kamera";
+        }
+
+        public void BiseyYap(int sayi)
+        {
+            sayi = 99;
         }
     }
 }
