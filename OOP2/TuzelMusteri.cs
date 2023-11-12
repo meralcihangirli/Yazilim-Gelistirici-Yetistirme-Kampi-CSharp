@@ -7,10 +7,8 @@ using System.Threading.Tasks;
 namespace OOP2
 {
     //individual
-    class TuzelMusteri
+    class TuzelMusteri : Musteri
     {
-        public int Id { get; set; }
-        public string MusteriNo { get; set; }
         public string Unvani { get; set; }
         public string VergiNo { get; set; }
     }
