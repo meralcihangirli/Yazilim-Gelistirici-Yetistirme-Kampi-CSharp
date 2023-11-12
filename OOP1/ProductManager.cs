@@ -10,7 +10,7 @@ namespace OOP1
     {
         public void Add(Product product)
         {
-            Console.WriteLine("Product Added "+product.ProductName);
+            
         }
     }
 }
