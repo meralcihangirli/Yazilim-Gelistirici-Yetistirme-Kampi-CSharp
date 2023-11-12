@@ -25,9 +25,15 @@ namespace OOP1
             productManager.Add(product1);
             Console.WriteLine(product1.ProductName); //kamera
 
-            int sayi = 100;
-            productManager.BiseyYap(sayi);
-            Console.WriteLine(sayi); //100
+            //int sayi = 100;
+            //productManager.BiseyYap(sayi);
+            //Console.WriteLine(sayi); //100
+
+            productManager.Topla2(3, 6);
+
+
+            int toplamaSonucu = productManager.Topla(3, 6);
+            Console.WriteLine(toplamaSonucu*2);
         }
     }
 }
