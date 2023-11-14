@@ -1,0 +1,14 @@
+E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\Linq\Linq\bin\Debug\net7.0\Linq.exe
+E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\Linq\Linq\bin\Debug\net7.0\Linq.deps.json
+E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\Linq\Linq\bin\Debug\net7.0\Linq.runtimeconfig.json
+E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\Linq\Linq\bin\Debug\net7.0\Linq.dll
+E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\Linq\Linq\bin\Debug\net7.0\Linq.pdb
+E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\Linq\Linq\obj\Debug\net7.0\Linq.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\Linq\Linq\obj\Debug\net7.0\Linq.AssemblyInfoInputs.cache
+E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\Linq\Linq\obj\Debug\net7.0\Linq.AssemblyInfo.cs
+E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\Linq\Linq\obj\Debug\net7.0\Linq.csproj.CoreCompileInputs.cache
+E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\Linq\Linq\obj\Debug\net7.0\Linq.dll
+E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\Linq\Linq\obj\Debug\net7.0\refint\Linq.dll
+E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\Linq\Linq\obj\Debug\net7.0\Linq.pdb
+E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\Linq\Linq\obj\Debug\net7.0\Linq.genruntimeconfig.cache
+E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\Linq\Linq\obj\Debug\net7.0\ref\Linq.dll
