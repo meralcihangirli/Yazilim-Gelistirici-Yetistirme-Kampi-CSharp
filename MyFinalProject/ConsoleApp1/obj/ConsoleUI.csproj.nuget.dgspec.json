@@ -100,6 +100,9 @@
             "projectReferences": {
               "E:\\Tobeto\\CSharp\\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\\MyFinalProject\\Business\\Business.csproj": {
                 "projectPath": "E:\\Tobeto\\CSharp\\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\\MyFinalProject\\Business\\Business.csproj"
+              },
+              "E:\\Tobeto\\CSharp\\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\\MyFinalProject\\Entities\\Entities.csproj": {
+                "projectPath": "E:\\Tobeto\\CSharp\\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\\MyFinalProject\\Entities\\Entities.csproj"
               }
             }
           }
@@ -176,6 +179,16 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

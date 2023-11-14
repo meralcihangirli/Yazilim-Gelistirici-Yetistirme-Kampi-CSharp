@@ -13,3 +13,5 @@ E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\MyFinalProject\Data
 E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\MyFinalProject\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
 E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\MyFinalProject\DataAccess\obj\Debug\net7.0\DataAccess.pdb
 E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\MyFinalProject\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll
+E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\MyFinalProject\DataAccess\bin\Debug\net7.0\DataAccess.runtimeconfig.json
+E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\MyFinalProject\DataAccess\obj\Debug\net7.0\DataAccess.genruntimeconfig.cache
