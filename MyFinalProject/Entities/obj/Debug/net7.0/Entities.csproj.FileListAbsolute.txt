@@ -1,0 +1,11 @@
+E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\MyFinalProject\Entities\bin\Debug\net7.0\Entities.deps.json
+E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\MyFinalProject\Entities\bin\Debug\net7.0\Entities.dll
+E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\MyFinalProject\Entities\bin\Debug\net7.0\Entities.pdb
+E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\MyFinalProject\Entities\obj\Debug\net7.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\MyFinalProject\Entities\obj\Debug\net7.0\Entities.AssemblyInfoInputs.cache
+E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\MyFinalProject\Entities\obj\Debug\net7.0\Entities.AssemblyInfo.cs
+E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\MyFinalProject\Entities\obj\Debug\net7.0\Entities.csproj.CoreCompileInputs.cache
+E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\MyFinalProject\Entities\obj\Debug\net7.0\Entities.dll
+E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\MyFinalProject\Entities\obj\Debug\net7.0\refint\Entities.dll
+E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\MyFinalProject\Entities\obj\Debug\net7.0\Entities.pdb
+E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\MyFinalProject\Entities\obj\Debug\net7.0\ref\Entities.dll
