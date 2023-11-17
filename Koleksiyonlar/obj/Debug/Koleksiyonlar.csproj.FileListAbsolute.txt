@@ -1,0 +1,7 @@
+E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\Koleksiyonlar\bin\Debug\Koleksiyonlar.exe.config
+E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\Koleksiyonlar\bin\Debug\Koleksiyonlar.exe
+E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\Koleksiyonlar\bin\Debug\Koleksiyonlar.pdb
+E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\Koleksiyonlar\obj\Debug\Koleksiyonlar.csproj.AssemblyReference.cache
+E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\Koleksiyonlar\obj\Debug\Koleksiyonlar.csproj.CoreCompileInputs.cache
+E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\Koleksiyonlar\obj\Debug\Koleksiyonlar.exe
+E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\Koleksiyonlar\obj\Debug\Koleksiyonlar.pdb
