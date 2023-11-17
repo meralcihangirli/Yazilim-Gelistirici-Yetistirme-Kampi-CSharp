@@ -4,18 +4,37 @@ using DataAccess.Abstract;
 using DataAccess.Concrete.InMemory;
 using Entities.Concrete;
 using DataAccess.Concrete.EntityFramework;
+using Business.Concrete;
 
 class Program
 {
     private static void Main(string[] args)
     {
+        ProductTest();
 
-        ProductManager productManager = new ProductManager(new EfProductDal());
-        foreach (var product in productManager.GetAllByCategoryId(2))
+        //CategoryTest();
+
+    }
+
+    private static void CategoryTest()
+    {
+        CategoryManager categoryManager = new CategoryManager(new EfCategoryDal());
+        foreach (var category in categoryManager.GetAll())
         {
-            Console.WriteLine(product.ProductName);
-           
+            Console.WriteLine(category.CategoryName);
         }
+    }
 
+    private static void ProductTest()
+    {
+        ProductManager productManager = new ProductManager(new EfProductDal());
+        //Console.WriteLine("sayıgir");
+        //int sayi = Convert.ToInt32(Console.ReadLine());
+
+        foreach (var product in productManager.GetProductDetails())
+        {
+            Console.WriteLine(product.ProductName + " / " +product.CategoryName);
+
+        }
     }
 }

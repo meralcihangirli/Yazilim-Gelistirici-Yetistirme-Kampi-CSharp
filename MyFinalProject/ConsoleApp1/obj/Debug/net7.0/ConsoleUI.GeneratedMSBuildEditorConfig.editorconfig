@@ -9,3 +9,5 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ConsoleUI
 build_property.ProjectDir = E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\MyFinalProject\ConsoleApp1\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

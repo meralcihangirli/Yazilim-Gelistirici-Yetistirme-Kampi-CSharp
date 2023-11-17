@@ -9,3 +9,8 @@ E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\MyFinalProject\Enti
 E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\MyFinalProject\Entities\obj\Debug\net7.0\refint\Entities.dll
 E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\MyFinalProject\Entities\obj\Debug\net7.0\Entities.pdb
 E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\MyFinalProject\Entities\obj\Debug\net7.0\ref\Entities.dll
+E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\MyFinalProject\Entities\obj\Debug\net7.0\Entities.sourcelink.json
+E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\MyFinalProject\Entities\bin\Debug\net7.0\Core.dll
+E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\MyFinalProject\Entities\bin\Debug\net7.0\Core.pdb
+E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\MyFinalProject\Entities\obj\Debug\net7.0\Entities.csproj.AssemblyReference.cache
+E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\MyFinalProject\Entities\obj\Debug\net7.0\Entities.csproj.CopyComplete

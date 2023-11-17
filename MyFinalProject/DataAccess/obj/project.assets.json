@@ -1147,9 +1147,25 @@
           }
         }
       },
+      "Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Core.dll": {}
+        }
+      },
       "Entities/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Core": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Entities.dll": {}
         },
@@ -3620,6 +3636,11 @@
         "version.txt"
       ]
     },
+    "Core/1.0.0": {
+      "type": "project",
+      "path": "../Core/Core.csproj",
+      "msbuildProject": "../Core/Core.csproj"
+    },
     "Entities/1.0.0": {
       "type": "project",
       "path": "../Entities/Entities.csproj",
@@ -3628,6 +3649,7 @@
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "Core >= 1.0.0",
       "Entities >= 1.0.0",
       "EntityFramework >= 6.4.4",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.0"
@@ -3665,6 +3687,9 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
+            "E:\\Tobeto\\CSharp\\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\\MyFinalProject\\Core\\Core.csproj": {
+              "projectPath": "E:\\Tobeto\\CSharp\\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\\MyFinalProject\\Core\\Core.csproj"
+            },
             "E:\\Tobeto\\CSharp\\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\\MyFinalProject\\Entities\\Entities.csproj": {
               "projectPath": "E:\\Tobeto\\CSharp\\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\\MyFinalProject\\Entities\\Entities.csproj"
             }
@@ -3706,7 +3731,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

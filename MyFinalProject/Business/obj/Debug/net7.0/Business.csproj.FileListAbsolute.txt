@@ -17,3 +17,6 @@ E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\MyFinalProject\Busi
 E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\MyFinalProject\Business\obj\Debug\net7.0\ref\Business.dll
 E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\MyFinalProject\Business\bin\Debug\net7.0\Business.runtimeconfig.json
 E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\MyFinalProject\Business\obj\Debug\net7.0\Business.genruntimeconfig.cache
+E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\MyFinalProject\Business\obj\Debug\net7.0\Business.sourcelink.json
+E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\MyFinalProject\Business\bin\Debug\net7.0\Core.dll
+E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\MyFinalProject\Business\bin\Debug\net7.0\Core.pdb
