@@ -1,7 +1,0 @@
-E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\Matematik\bin\Debug\Matematik.exe.config
-E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\Matematik\bin\Debug\Matematik.exe
-E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\Matematik\bin\Debug\Matematik.pdb
-E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\Matematik\obj\Debug\Matematik.csproj.AssemblyReference.cache
-E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\Matematik\obj\Debug\Matematik.csproj.CoreCompileInputs.cache
-E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\Matematik\obj\Debug\Matematik.exe
-E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\Matematik\obj\Debug\Matematik.pdb
