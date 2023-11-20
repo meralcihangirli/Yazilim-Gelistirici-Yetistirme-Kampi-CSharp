@@ -5,6 +5,8 @@ using DataAccess.Concrete.InMemory;
 using Entities.Concrete;
 using DataAccess.Concrete.EntityFramework;
 using Business.Concrete;
+using Core.Utilities.Results;
+using System.ComponentModel.Design;
 
 class Program
 {
@@ -31,10 +33,21 @@ class Program
         //Console.WriteLine("sayıgir");
         //int sayi = Convert.ToInt32(Console.ReadLine());
 
-        foreach (var product in productManager.GetProductDetails())
-        {
-            Console.WriteLine(product.ProductName + " / " +product.CategoryName);
+        var result = productManager.GetProductDetails();
 
+        if (result.Success == true)
+        {
+            foreach (var product in result.Data)
+            {
+                Console.WriteLine(product.ProductName + " / " + product.CategoryName);
+
+            }
         }
+        else
+        {
+            Console.WriteLine(result.Message);
+        }
+
+
     }
 }
