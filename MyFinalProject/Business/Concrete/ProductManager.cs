@@ -33,7 +33,7 @@ namespace DataAccess.Concrete
 
         public IDataResult<List<Product>> GetAll()
         {
-            if (DateTime.Now.Hour==0)
+            if (DateTime.Now.Hour==5)
             {
                 return new ErrorDataResult<List<Product>>(Messages.MaintenanceTime);
             }
