@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OkNk5r+d8r+DAY3OkftpywghuZnBEKAscM4PMGuyrhfIp3dp7GaJW3B2eOYEtFkhHPUNOMav/deBqRWiE7V0NA==",
+  "dgSpecHash": "/WAngE5vc5qPXyaDtjTpWAF3t9Tr5AqjCrbMTVpdBdxGwPf20yLdmVNVbrjaLhocdEcy1RnHbB3V+IrgPcPNww==",
   "success": true,
-  "projectFilePath": "E:\\Tobeto\\CSharp\\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\\MyFinalProject\\WebAPIII\\WebAPIII.csproj",
+  "projectFilePath": "E:\\Tobeto\\CSharp\\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\\MyFinalProject\\WebAPIII\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\black\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.13\\microsoft.aspnetcore.openapi.7.0.13.nupkg.sha512",
     "C:\\Users\\black\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

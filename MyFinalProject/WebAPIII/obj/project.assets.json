@@ -475,9 +475,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Tobeto\\CSharp\\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\\MyFinalProject\\WebAPIII\\WebAPIII.csproj",
-      "projectName": "WebAPIII",
-      "projectPath": "E:\\Tobeto\\CSharp\\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\\MyFinalProject\\WebAPIII\\WebAPIII.csproj",
+      "projectUniqueName": "E:\\Tobeto\\CSharp\\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\\MyFinalProject\\WebAPIII\\WebAPI.csproj",
+      "projectName": "WebAPI",
+      "projectPath": "E:\\Tobeto\\CSharp\\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\\MyFinalProject\\WebAPIII\\WebAPI.csproj",
       "packagesPath": "C:\\Users\\black\\.nuget\\packages\\",
       "outputPath": "E:\\Tobeto\\CSharp\\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\\MyFinalProject\\WebAPIII\\obj\\",
       "projectStyle": "PackageReference",
