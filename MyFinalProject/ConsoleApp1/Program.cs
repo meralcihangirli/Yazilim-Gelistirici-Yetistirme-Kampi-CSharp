@@ -12,7 +12,7 @@ class Program
 {
     private static void Main(string[] args)
     {
-        ProductTest();
+        //ProductTest();
 
         //CategoryTest();
 
