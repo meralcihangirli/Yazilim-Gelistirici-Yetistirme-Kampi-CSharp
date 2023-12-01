@@ -32,6 +32,9 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
+              "E:\\Tobeto\\CSharp\\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\\MyFinalProject\\Core\\Core.csproj": {
+                "projectPath": "E:\\Tobeto\\CSharp\\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\\MyFinalProject\\Core\\Core.csproj"
+              },
               "E:\\Tobeto\\CSharp\\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\\MyFinalProject\\DataAccess\\DataAccess.csproj": {
                 "projectPath": "E:\\Tobeto\\CSharp\\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\\MyFinalProject\\DataAccess\\DataAccess.csproj"
               },
@@ -55,6 +58,10 @@
               "target": "Package",
               "version": "[7.1.0, )"
             },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
             "Autofac.Extras.DynamicProxy": {
               "target": "Package",
               "version": "[7.1.0, )"
@@ -62,6 +69,14 @@
             "FluentValidation": {
               "target": "Package",
               "version": "[11.8.1, )"
+            },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
             }
           },
           "imports": [
@@ -140,9 +155,21 @@
               "target": "Package",
               "version": "[11.8.1, )"
             },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[7.0.3, )"
             }
           },
           "imports": [
@@ -360,6 +387,10 @@
             "Autofac.Extensions.DependencyInjection": {
               "target": "Package",
               "version": "[8.0.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
             },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",

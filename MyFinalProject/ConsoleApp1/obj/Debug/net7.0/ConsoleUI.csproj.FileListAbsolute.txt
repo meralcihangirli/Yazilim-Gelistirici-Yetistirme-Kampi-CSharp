@@ -87,3 +87,10 @@ E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\MyFinalProject\Cons
 E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\MyFinalProject\ConsoleApp1\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
 E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\MyFinalProject\ConsoleApp1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
 E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\MyFinalProject\ConsoleApp1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\MyFinalProject\ConsoleApp1\bin\Debug\net7.0\Microsoft.AspNetCore.Http.dll
+E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\MyFinalProject\ConsoleApp1\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\MyFinalProject\ConsoleApp1\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Features.dll
+E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\MyFinalProject\ConsoleApp1\bin\Debug\net7.0\Microsoft.AspNetCore.WebUtilities.dll
+E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\MyFinalProject\ConsoleApp1\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\MyFinalProject\ConsoleApp1\bin\Debug\net7.0\Microsoft.Extensions.ObjectPool.dll
+E:\Tobeto\CSharp\Yazilim-Gelistirici-Yetistirme-Kampi-CSharp\MyFinalProject\ConsoleApp1\bin\Debug\net7.0\Microsoft.Net.Http.Headers.dll

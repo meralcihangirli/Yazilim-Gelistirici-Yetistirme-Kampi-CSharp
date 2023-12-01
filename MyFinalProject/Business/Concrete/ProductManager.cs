@@ -1,4 +1,5 @@
 ﻿using Business.Abstract;
+using Business.BusinessAspects.Autofac;
 using Business.CCS;
 using Business.Constants;
 using Business.ValidationRules.FluentValidation;
@@ -30,7 +31,8 @@ namespace DataAccess.Concrete
             _productDal = productDal;
             _categoryService = categoryService;
         }
-
+        //Claim:yetki diye kullandıgımız admin ..gibi gibi operasyon bazlı yapıların adı
+        [SecuredOperation("product.add,admin")]
         [ValidationAspect(typeof(ProductValidator))]
         public IResult Add(Product product)
         {  //validation =>dogrulama kodu
