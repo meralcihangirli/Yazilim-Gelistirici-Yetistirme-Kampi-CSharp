@@ -3580,6 +3580,7 @@
       "Microsoft.AspNetCore.Http >= 2.2.2",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.0",
       "Microsoft.Extensions.Configuration.Binder >= 7.0.4",
+      "Microsoft.IdentityModel.Tokens >= 7.0.3",
       "System.IdentityModel.Tokens.Jwt >= 7.0.3"
     ]
   },
@@ -3654,6 +3655,10 @@
           "Microsoft.Extensions.Configuration.Binder": {
             "target": "Package",
             "version": "[7.0.4, )"
+          },
+          "Microsoft.IdentityModel.Tokens": {
+            "target": "Package",
+            "version": "[7.0.3, )"
           },
           "System.IdentityModel.Tokens.Jwt": {
             "target": "Package",
